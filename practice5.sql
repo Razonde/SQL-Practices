@@ -1,5 +1,5 @@
 -- Constraints --
-
+/*
 PRIMARY KEY
 unique/not null
 
@@ -16,3 +16,5 @@ email text UNIQUE
 NOT NULL 
 The value must exist and to add this constraint we do it directly when creating the column
 last_name text NOT NULL
+
+*/
